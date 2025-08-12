@@ -1,0 +1,7 @@
+speechrecognition
+pyttsx3
+pygame
+requests
+google-generativeai
+newsapi-python
+pyaudio
