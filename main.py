@@ -1,4 +1,4 @@
-print("Radhey Radhey")
+
 import speech_recognition as sr
 import pyaudio
 import webbrowser
@@ -9,9 +9,9 @@ import pygame
 import os
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyDVT1ZvpJw6oepMTBmn1obaYBNFOuo2GKk")
+genai.configure(api_key="{YOUR_GEMINI_API_KEY}")
 
-os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = "1"
+
 
 def ai(command):
     model = genai.GenerativeModel("gemini-2.5-pro")
