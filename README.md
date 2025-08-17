@@ -1,6 +1,8 @@
 # Jarvis AI Voice Assistant
 
-#### Description
+#### Description 
+VIDEO EXPLANATION- 
+    <a href="https://www.linkedin.com/posts/anshprogrammer_introducing-jarvis-my-personal-ai-assistant-activity-7362457134887788544-qxWR?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlrQCgBJlIdPj0s2Rx7FxIB11A0tKoryNs">Video HERE ON Linkedin</a>
 Jarvis is a Python-based AI voice assistant that listens to voice commands, processes them, and responds intelligently using Google's Gemini API.  
 It can answer questions, fetch news, play music, and interact with you — all hands-free.
 
